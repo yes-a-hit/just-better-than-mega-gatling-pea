@@ -1,0 +1,14 @@
+{
+  "name": "just-better-than-mega-gatling",
+  "version": "1.0.0",
+  "private": true,
+  "description": "PvZ2 Gardendless (GP-Next) mod: Just Better Than Mega Gatling",
+  "type": "module",
+  "scripts": {
+    "test": "node tests/run.mjs",
+    "pack": "powershell -NoProfile -ExecutionPolicy Bypass -File tools/pack.ps1",
+    "pack:personal": "powershell -NoProfile -ExecutionPolicy Bypass -File tools/pack.ps1 -Personal"
+  },
+  "author": "YG",
+  "license": "MIT"
+}

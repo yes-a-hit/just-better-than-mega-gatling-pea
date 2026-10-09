@@ -1,0 +1,22 @@
+{
+  "objects": [
+    {
+      "objclass": "PlantProperties",
+      "aliases": [
+        "megagatling"
+      ],
+      "objdata": {
+        "SunCost": 600
+      }
+    },
+    {
+      "objclass": "PlantProperties",
+      "aliases": [
+        "threepeater_mgp"
+      ],
+      "objdata": {
+        "PlantfoodPeaCount": 180
+      }
+    }
+  ]
+}
